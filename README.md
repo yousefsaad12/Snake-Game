@@ -1,2 +1,2 @@
 # Snake-Game
-Snake game code
+first project in c++
